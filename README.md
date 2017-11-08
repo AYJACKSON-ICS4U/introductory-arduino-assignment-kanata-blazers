@@ -1,2 +1,13 @@
-# introductory-arduino-assignment-kanata-blazers
-introductory-arduino-assignment-kanata-blazers created by GitHub Classroom
+# Arduino Assignment - Alex, Kyle, Ashray
+
+## Week 1 (Oct 16 - 20)
+
+  Went over the arudino pdf found [here](https://drive.google.com/file/d/0B4BDg-tMRTBsVGhES0hnTUgydFk/view). Learned the goal of the assignment was to put a **button and an LED and write a program in order turn the LED on from the button**. We were going to combine hardware and software to do something for the first times in our lives. This seemed like a simple task that evolve into something amazing. We **finished reading** about all the components in out kit, then statred the steps. We got the **IDE downloaded**, but could not get it to work.
+
+## Week 2 (Oct 17 - 23)
+
+  This week we focused on getting the on board light to blink, this was much harder then we thought. After stuggling with errors we did not understand we got help. It turned out we had incorrect uploading settings in the IDE. After solving this issue we got the right file and the **light blinked**! This was a very successful week, we were able to accomplish our task for the week and mess around with the code for different results (the code can be found in our repo).
+  
+## Week 3 (Oct 30 - Nov 3)
+
+ Got the Simple_PB_LED switch program and setup the board according to the pdf [here](https://drive.google.com/file/d/0B4BDg-tMRTBsVGhES0hnTUgydFk/view). Had some stuggles with how specific the board had to be, took a few tries to get it working. After a while we asked for help and learned how the board is powered in each section. We now **understood how important the placement of the wires are and got the light working**.
