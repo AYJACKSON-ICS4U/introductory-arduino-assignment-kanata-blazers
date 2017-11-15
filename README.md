@@ -7,7 +7,11 @@
 ## Week 2 (Oct 17 - 23)
 
   This week we focused on getting the on board light to blink, this was much harder then we thought. After stuggling with errors we did not understand we got help. It turned out we had incorrect uploading settings in the IDE. After solving this issue we got the right file and the **light blinked**! This was a very successful week, we were able to accomplish our task for the week and mess around with the code for different results (the code can be found in our repo).
-  
+
 ## Week 3 (Oct 30 - Nov 3)
 
  Got the Simple_PB_LED switch program and setup the board according to the pdf [here](https://drive.google.com/file/d/0B4BDg-tMRTBsVGhES0hnTUgydFk/view). Had some stuggles with how specific the board had to be, took a few tries to get it working. After a while we asked for help and learned how the board is powered in each section. We now **understood how important the placement of the wires are and got the light working**.
+
+ ## Week 4 (Nov 6 - 10)
+
+Looked over the new and improved pdf [here](https://classroom.google.com/u/0/c/NzQwNzQ0NDA1Nlpa). This gave us a much better perspective on the Arduino boards and how they work. We are now ready for the next task.
