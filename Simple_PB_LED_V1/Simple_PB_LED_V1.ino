@@ -15,6 +15,6 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  LEDstate = digitalRead(SWITCHpin);
+  LEDstate = digitalRead(-SWITCHpin);
   digitalWrite(LEDpin, LEDstate);
 }
