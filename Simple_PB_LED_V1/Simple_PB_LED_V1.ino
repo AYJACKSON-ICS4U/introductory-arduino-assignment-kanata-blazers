@@ -7,14 +7,14 @@ byte LEDstate = LOW;
 
 void setup() {
   // put your setup code here, to run once:
-pinMode(LEDpin, OUTPUT);
-pinMode(SWITCHpin, INPUT);
-digitalWrite(SWITCHpin, HIGH);
+  pinMode(LEDpin, OUTPUT);
+  pinMode(SWITCHpin, INPUT);
+  digitalWrite(SWITCHpin, HIGH);
 }
 
 
 void loop() {
   // put your main code here, to run repeatedly:
-LEDstate = digitalRead(SWITCHpin);
-digitalWrite(LEDpin, LEDstate);
+  LEDstate = digitalRead(-SWITCHpin);
+  digitalWrite(LEDpin, LEDstate);
 }

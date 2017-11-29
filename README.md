@@ -10,8 +10,12 @@
 
 ## Week 3 (Oct 30 - Nov 3)
 
- Got the Simple_PB_LED switch program and setup the board according to the pdf [here](https://drive.google.com/file/d/0B4BDg-tMRTBsVGhES0hnTUgydFk/view). Had some stuggles with how specific the board had to be, took a few tries to get it working. After a while we asked for help and learned how the board is powered in each section. We now **understood how important the placement of the wires are and got the light working**.
+ Got the Simple_PB_LED switch program and setup the board according to the pdf [here](https://drive.google.com/file/d/0B4BDg-tMRTBsVGhES0hnTUgydFk/view). Had some struggles with how specific the board had to be, took a few tries to get it working. After a while we asked for help and learned how the board is powered in each section. We now **understood how important the placement of the wires are and got the light working**.
 
  ## Week 4 (Nov 6 - 10)
 
-Looked over the new and improved pdf [here](https://classroom.google.com/u/0/c/NzQwNzQ0NDA1Nlpa). This gave us a much better perspective on the Arduino boards and how they work. We are now ready for the next task.
+  Looked over the new and improved pdf [here](https://drive.google.com/file/d/1JJ0v2E-IPxfar0Ts8RAgk3qZG0XMFzPz/view). This gave us a much better perspective on the Arduino boards and how they work. We are now ready for the next task.
+
+## Week 5 (Nov 13 - 17)
+
+Made lots of progress this week. We managed to get the light to turn off when you hit the button. We received help from a classmate in order to get the wiring done correctly. In addition, we got the light to turn on when we hit the button.
