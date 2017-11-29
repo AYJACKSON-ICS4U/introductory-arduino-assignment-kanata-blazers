@@ -19,7 +19,3 @@
 ## Week 5 (Nov 13 - 17)
 
   Made lots of progress this week. We managed to get the light to turn off when you hit the button. We received help from a classmate in order to get the wiring done correctly. In addition, we got the **light to turn on when we hit the button**.
-
-## Week 6 (Nov 20 - 24)
-dnwlkadw
-  
