@@ -22,6 +22,11 @@
   http://www.arduino.cc/en/Tutorial/Blink
 */
 
+unsigned long interval = 500; // the time we need to wait between LED state switches
+unsigned long previousMillis = 0; // millis() returns an unsigned long.
+ 
+bool ledState = false; // state variable for the LEDs
+
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -30,8 +35,17 @@ void setup() {
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
+  unsigned long int currentMillis = millis(); // Get the current time in a long positive int
+
+  // Check if the time between the last blink and the current time is greater or equal to the desired interval between blinks
+ if (currentMillis - previousMillis >= interval) {
+
+   // Switch the lights state
+
+   ledState = !ledState;
+   digitalWrite(13, !ledState);
+
+   // Save the current time
+   previousMillis = millis();
+ }
 }

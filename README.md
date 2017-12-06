@@ -23,3 +23,11 @@
 ## Week 6 (Nov 20 - 24)
 
   This week we looked into deleting the delay function for the blink program, but were unsuccessful. We also updated our logs for a few weeks and uploaded our programs.
+
+## Week 7 (Nov 27 - Dec 1)
+
+  We continued trying to replace the delay function in the program with the milliseconds function. However, yet again we were unsuccessful and are not sure how to accomplish this task.
+
+## Week 8 (Dec 4 - 8)
+
+  **Finished the millis function program**. In addition, we uploaded and commit the last two weeks of logs the millis program to github.
